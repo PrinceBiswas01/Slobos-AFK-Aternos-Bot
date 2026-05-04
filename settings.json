@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ashirwad_ke_randi.aternos.me:24188",
+    "ip": "ashirwad_ke_randi.aternos.me",
     "port": 24188,
     "version": "",
     "try-creative": false
