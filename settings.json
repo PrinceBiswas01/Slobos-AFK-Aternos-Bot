@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ashirwad_ke_randi.aternos.me:24188",
+    "port": 24188,
     "version": "",
     "try-creative": false
   },
